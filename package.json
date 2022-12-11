@@ -1,0 +1,14 @@
+{
+  "name": "testci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "somme.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
